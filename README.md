@@ -17,7 +17,7 @@ There are a few prerequisites you will need to have in place:
 9. Now make a small change to the repo such as adding a blank line to the end of this README, then add, commit, and push your changes to your repo.
 10. After pushing a change you should see a new workflow created, and an initial workflow run, under your repo's project in the Gradient web interface.
 
-----
+------
 
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
